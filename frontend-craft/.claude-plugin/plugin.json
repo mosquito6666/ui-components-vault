@@ -1,0 +1,27 @@
+{
+  "name": "frontend-craft",
+  "version": "1.0.0",
+  "description": "Super-skill de diseño frontend de máximo detalle sobre el UI Components Vault: 8 agentes especializados (builders + reviewers que se complementan), 7 skills de conocimiento por dominio (navegación del vault, animaciones, 3D/WebGL, efectos creativos, registries, design tokens, estándares de calidad) y 5 comandos de workflow (find-component, build-ui, animate, vault-enrich, vault-sync).",
+  "author": {
+    "name": "Prominence S.A"
+  },
+  "homepage": "https://github.com/Prominence/ui-components-vault",
+  "keywords": [
+    "frontend",
+    "ui",
+    "animations",
+    "motion",
+    "3d",
+    "webgl",
+    "shaders",
+    "design-system",
+    "design-tokens",
+    "accessibility",
+    "components"
+  ],
+  "components": {
+    "agents": "./agents",
+    "skills": "./skills",
+    "commands": "./commands"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ui-components-vault",
+  "owner": {
+    "name": "Prominence S.A"
+  },
+  "metadata": {
+    "description": "Marketplace local del UI Components Vault. Expone el plugin frontend-craft para diseño frontend de alta calidad con animaciones, 3D y micro-interacciones curadas desde 10 librerías.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "frontend-craft",
+      "source": "./frontend-craft",
+      "description": "Super-skill de diseño frontend: agentes builders + reviewers, skills de conocimiento (animaciones, 3D/WebGL, efectos, registries, tokens) y comandos de workflow sobre el vault de componentes.",
+      "version": "1.0.0",
+      "category": "design",
+      "keywords": ["frontend", "ui", "animations", "3d", "webgl", "design-system", "components"]
+    }
+  ]
+}

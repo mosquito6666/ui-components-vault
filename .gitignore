@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / OneDrive
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.tmp
+*.sync-conflict-*
+
+# Editores
+.vscode/
+.idea/
+
+# Logs
+*.log
